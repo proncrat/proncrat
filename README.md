@@ -1,5 +1,5 @@
 ## Hi my names Jullian
-Welcome to my github profile im a web developer with a love for creating wacky wonderful experiences. Im also capable of making proffesional websites too.
+Hi, I'm a web developer with a background in customer service and team leadership. I have a passion for creating beautiful and eye catching designs and a desire to tinker and  figure out the inner workings of systems. This led me to study in the world of tech. Being able to make things that people can use is one of the things I love about being a dev and drives me to learn new things every day and work on random personal projects.
 
 ## 🛠️ Languages and Tools
 
